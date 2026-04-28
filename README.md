@@ -6,4 +6,4 @@ Este repositorio desarrolla un análisis exploratorio a partir de la base de dat
 
 El objetivo es transformar la información pública del programa en métricas y visualizaciones que permitan describir la distribución territorial, administrativa y de estado de los establecimientos beneficiarios.
 
-Puedes revisar el proyecto aquí: Ver repositorio
+![](https://github.com/benbarboza/ben_portafolio/blob/3ae6d6a8d661036e5f15e1e9055cfc37b14e2772/images/imagen-de-prueba-320x240-1.jpg)
